@@ -1,0 +1,10 @@
+{
+    "keyboard.dispatch": "keyCode",
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "One Dark Pro Vivid",
+    "vim.disableExtension": false,
+    "vim.otherModesKeyBindings": [],
+    "vim.useCtrlKeys": false,
+    "vim.smartcase": false,
+    "go.testOnSave": true
+}
